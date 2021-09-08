@@ -22,7 +22,7 @@ Add any other context or screenshots about the feature request here.
 
 1st bot
 
-*✨Sew Queen Whatsapp Bot ✨★➳*
+*🅽︎🅾︎ㄖ几乇*
 
 ❯❯❯added new ttp list ==> .sewttp
 
@@ -52,7 +52,7 @@ Add any other context or screenshots about the feature request here.
 
 2nd Bot
 
-*✨King Raviya 18 + whatsapp bot ✨★➳*
+*🅽︎🅾︎ㄖ几乇*
 
 ❯❯❯phub search ==> .pornhub your text
 
