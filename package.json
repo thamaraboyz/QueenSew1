@@ -1,7 +1,7 @@
 {
-  "name": "rs-sew-queen",
+  "name": "🅽︎🅾︎ㄖ几乇",
   "version": "2.0.0",
-  "description": "Sew Queen.",
+  "description": "🅓︎🅞︎🅝︎'🅣︎ ᴜɴᴅᴇʀᴇsᴛɪᴍᴀᴛᴇ 𝐦𝐞, I 𝘢𝘮 🅽︎🅾︎ㄖ几乇",
   "main": "./SewQueen/sew.js",
   "scripts": {
     "start": "supervisor -s sew.js"
