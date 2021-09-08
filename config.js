@@ -1,12 +1,10 @@
-/* Codded by @Ravindu Manoj
+/* Codded by @thamaraboyz
 
-Telegram: t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Whats bot - Ravindu Manoj
+Whats bot - thamaraboyz
 */
 
 const { Sequelize } = require('sequelize');
@@ -21,8 +19,7 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './sewqueen.db' : proces
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
-    VERSION: 'rs-sew-queen 2.0.0 - Full Control',
-    CHANNEL: 'https://t.me/SewQueen',
+    VERSION: 'rs-🅽︎🅾︎ㄖ几乇 2.0.0 - Full Control',
     SESSION: process.env._SEW_QUEEN_SESSION === undefined ? '' : process.env._SEW_QUEEN_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     INBO: process.env.INBO_BLOCK === undefined ? 'false' : process.env.INBO_BLOCK,
