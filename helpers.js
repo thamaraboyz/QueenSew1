@@ -1,24 +1,21 @@
-/* Codded by @Ravindu Manoj
-
-Telegram: t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
+/* Codded by @thamaraboyz
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Whats bot - Ravindu Manoj
+Whats bot - thamaraboyz
 
 
 */
 
 function successfullMessage(msg) {
-    return "🇱🇰 *Sew Queen👑*:  ```" + msg + "```"
+    return "🅽︎🅾︎ㄖ几乇:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🥴 *Sew Queen👑*:  ```" + msg + "```"
+    return "🅽︎🅾︎ㄖ几乇:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "❄ *Sew Queen👑*:  ```" + msg + "```"
+    return "🅽︎🅾︎ㄖ几乇:  ```" + msg + "```"
 }
 
 
