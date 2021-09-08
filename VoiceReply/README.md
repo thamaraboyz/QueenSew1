@@ -2,17 +2,17 @@
 
 
 <h2></h2>
-#Programmer ...
+#Programmer thamaraboyz...
 
 
 <div align="center">
 <img src="" />
   </div>
-*♕❄SEW QUEEN 2.0.0 - Full Control - Dual Bot Mode❄♔*
+*🅽︎🅾︎ㄖ几乇*
 
 1st bot
 
-*✨Sew Queen Whatsapp Bot ✨★➳*
+*🅽︎🅾︎ㄖ几乇*
 
 ❯❯❯added new ttp list ==> .sewttp
 
@@ -42,7 +42,7 @@
 
 2nd Bot
 
-*✨King Raviya 18 + whatsapp bot ✨★➳*
+*🅽︎🅾︎ㄖ几乇*
 
 ❯❯❯phub search ==> .pornhub your text
 
