@@ -1,11 +1,9 @@
 {
     "name": "🅽︎🅾︎ㄖ几乇",
     "description": "Don't underest me.I am 🅽︎🅾︎ㄖ几乇",
-    "logo": "https://i.ibb.co/JkjKGTy/temp-user-profile1621662133773.jpg",
+    "logo": "https://i.ibb.co/DGVyCzf/IMG-20210826-181631-386-1.jpg",
     "keywords": ["whatsapp", "userbot", "sew", "sewqueen", "bot", "api", "ai"],
     "repository": "",
-    "website":   "https://t.me/RavinduManoj",
-    "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "_SEW_QUEEN_SESSION": {
@@ -78,11 +76,11 @@
         "SYSTEM_IMAGE": {
             "description": "කිලෝබයිට් 500ට අඩු පින්තූරයක ඩිරෙක්ට් ලින්ක් එකක් යොදන්න.add derect link for image",
             "required": false,
-            "value": "https://bit.ly/3AyW139"
+            "value": "https://i.ibb.co/DGVyCzf/IMG-20210826-181631-386-1.jpg"
         },
           "ZZ_PASSWORD": {
             "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video",
-            "required": true
+            "required": false
          },
          "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false. auto ස්ටිකර්ස් රිප්ලයි යැවීම සදහා",
@@ -98,7 +96,7 @@
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය වෙනස් කරයි.",
             "required": false,
-            "value": "❄💘sew💓❄bot(💗සූටික්කි💗)R💌S"
+            "value": "🅽︎🅾︎ㄖ几乇"
         },
         "FULL_SEW": {
             "description": "Turn your account into a chatbot!",
